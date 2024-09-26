@@ -20,7 +20,7 @@
 
 #
 
-### 📌 Connheça um pouco mais sobre a nossa equipe:  <a href="https://equipelegacy.github.io/Legacy/"> Site da Equipe </a> 
+### 📌 Conheça um pouco mais sobre a nossa equipe:  <a href="https://equipelegacy.github.io/Legacy/"> Site da Equipe </a> 
 
 #
 

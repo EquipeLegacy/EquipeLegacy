@@ -3,7 +3,7 @@
 
 <div align="center"> <img align="center" alt="Php" height="500" width="500" src="https://equipelegacy.github.io/Legacy/images/equipe%20ilus.png"> </div>
 
-### 💻 A equipe Legacy é copomposta por cinco colaboradores, técnicos em desenvolvimento de sistemas.
+### 💻 A equipe Legacy é composta por cinco colaboradores, técnicos em desenvolvimento de sistemas.
 
 #
 
